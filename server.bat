@@ -1,0 +1,1 @@
+start java -classpath ;classDir;lib/* HospitalServer

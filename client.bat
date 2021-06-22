@@ -1,0 +1,1 @@
+start java -cp ;classDir;lib/* FrontEndDriver

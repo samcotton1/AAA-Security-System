@@ -1,0 +1,1 @@
+javac -d classDir -cp "lib/*"; src/*.java
